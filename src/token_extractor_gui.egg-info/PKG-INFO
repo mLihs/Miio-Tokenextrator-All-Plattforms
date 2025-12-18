@@ -4,9 +4,11 @@ Version: 0.1.0
 Summary: Desktop GUI for extracting Xiaomi Cloud device tokens.
 Author: Martin Lihs
 Requires-Python: >=3.10
+License-File: LICENSE
 Requires-Dist: requests
 Requires-Dist: pycryptodome
 Requires-Dist: charset-normalizer
 Requires-Dist: Pillow
 Requires-Dist: colorama
 Requires-Dist: PySide6
+Dynamic: license-file

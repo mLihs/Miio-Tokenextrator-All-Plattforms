@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 src/token_extractor_gui/__init__.py
